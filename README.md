@@ -33,4 +33,4 @@ My declarative nix configs for my homelab
 Effortlessly manage tmux sessions across multiple hosts.
 
 ### [icho](https://github.com/simonwjackson/icho)
-A hand crafted neovim development environment.
+A bespoke neovim workspace. Powered by nixvim.
