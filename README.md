@@ -26,11 +26,11 @@ A few things I’m proud of:
 ### [moonbeam](https://github.com/elevate/moonbeam)
 A quality-of-life wrapper around moonlight (game streaming)
 
-### [mountainous](https://github.com/simonwjackson/mountainous)
-My declarative nix configs for my homelab
-
 ### [tmesh](https://github.com/simonwjackson/tmesh)
 Effortlessly manage tmux sessions across multiple hosts.
 
 ### [icho](https://github.com/simonwjackson/icho)
 A bespoke neovim workspace. Powered by nixvim.
+
+### [mountainous](https://github.com/simonwjackson/mountainous)
+My NixOS homelab configs. Built with Snowfall.
