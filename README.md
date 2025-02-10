@@ -3,7 +3,7 @@
 **Creative Technologist, UI Developer & Perpetual Tinkerer**
 
 [![Website](https://img.shields.io/badge/Website-simonwjackson.io-blue?style=flat-square)](https://simonwjackson.io) 
-[![Email](https://img.shields.io/badge/Email-hello@simonwjackson.io-blue?style=flat-square)](mailto:opensource@simonwjackson.io)
+[![Email](https://img.shields.io/badge/Email-opensource@simonwjackson.io-blue?style=flat-square)](mailto:opensource@simonwjackson.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SimonWJackson-blue?style=flat-square)](https://www.linkedin.com/in/simonwjackson)
 [![Twitter](https://img.shields.io/badge/Twitter-@SimonWJackson-blue?style=flat-square)](https://twitter.com/SimonWJackson)
 
