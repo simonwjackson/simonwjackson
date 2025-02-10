@@ -23,14 +23,9 @@ A few things I’m proud of:
 
 ## 🌱 I’m currently working on..
 
-### [moonbeam](https://github.com/elevate/moonbeam)
-A quality-of-life wrapper around moonlight (game streaming)
-
-### [tmesh](https://github.com/simonwjackson/tmesh)
-Effortlessly manage tmux sessions across multiple hosts.
-
-### [icho](https://github.com/simonwjackson/icho)
-A bespoke neovim workspace. Powered by nixvim.
-
-### [mountainous](https://github.com/simonwjackson/mountainous)
-My NixOS homelab configs. Built with Snowfall.
+|   | Project |
+|---|---|
+| <a target="_blank" rel="noopener noreferrer" href="https://github.com/simonwjackson/elevate/blob/main/packages/moonbeam/moonbeam-logo.png"><img src="https://github.com/simonwjackson/elevate/raw/main/packages/moonbeam/moonbeam-logo.png" alt="Moonbeam Logo" width="400" style="width: 200px; max-width: 100%;"></a> | **[moonbeam](https://github.com/elevate/moonbeam)**<br>A quality-of-life wrapper around moonlight (game streaming) |
+| 🕹️ | **[tmesh](https://github.com/simonwjackson/tmesh)**<br>Effortlessly manage tmux sessions across multiple hosts. |
+| <a target="_blank" rel="noopener noreferrer" href="https://github.com/simonwjackson/icho/blob/main/.github/assets/8e7b8cce-3782-42c0-a3eb-62ca1ec649bd_removalai_preview.png"><img src="https://github.com/simonwjackson/icho/raw/main/.github/assets/8e7b8cce-3782-42c0-a3eb-62ca1ec649bd_removalai_preview.png" style="width: 200px; max-width: 100%;"></a> | **[icho](https://github.com/simonwjackson/icho)**<br>A bespoke neovim workspace. Powered by nixvim. |
+| <a target="_blank" rel="noopener noreferrer" href="https://github.com/simonwjackson/mountainous/raw/main/.github/assets/mountainous-logo.jpg"><img src="https://github.com/simonwjackson/mountainous/raw/main/.github/assets/mountainous-logo.jpg" alt="mountainous" style="width: 200px; max-width: 100%;"></a> | **[mountainous](https://github.com/simonwjackson/mountainous)**<br>My NixOS homelab configs. Built with Snowfall. |
